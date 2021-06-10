@@ -1,0 +1,21 @@
+1623082740297	geckodriver	INFO	Listening on 127.0.0.1:62594
+1623082743359	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilehnAaRx"
+1623082753100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623082778006	Marionette	INFO	Listening on port 62602
+1623082778835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623082785361	Marionette	INFO	Stopped listening on port 62602
+1623082788314	geckodriver	INFO	Listening on 127.0.0.1:62666
+1623082791339	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile83N5LZ"
+1623082793377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623082798652	Marionette	INFO	Listening on port 62674
+1623082798795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623082806546	Marionette	INFO	Stopped listening on port 62674
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00BA,name=PContent::Msg_StartVisitedQueries) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
